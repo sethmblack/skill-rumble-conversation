@@ -3,8 +3,9 @@ name: rumble-conversation
 description: Structure and facilitate a difficult conversation using Brene Brown's rumbling methodology - leaning into vulnerability, staying curious and generous, owning your part, and achieving clarity withou...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4884
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rumble-conversation
 - storytelling
